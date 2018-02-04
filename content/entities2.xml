@@ -1,0 +1,8 @@
+<entities anm2root="gfx/" version="1">
+    <entity anm2path="bulbasaur.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="13" id="3" friction=".5" name="Bulbasaur" numGridCollisionPoints="12" shadowSize="17" stageHP="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="charmander.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="13" id="3" friction=".7" name="Charmander" numGridCollisionPoints="12" shadowSize="17" stageHP="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+</entities>

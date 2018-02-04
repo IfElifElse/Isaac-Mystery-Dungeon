@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+    <familiar cache="familiars" description="Docile partner" gfx="ultraball.png" name="Bulbasaur" />
+    <familiar cache="familiars" description="Hardy partner" gfx="ultraball.png" name="Charmander" />
+</items>
